@@ -10,16 +10,28 @@ In this activity, you and your teammates will create a high-level requirement sp
 
 Elect one of you to be the one that will document the requirment specs. They should be written directly in this README file. 
 
-## System Requirements 
-
+## System Requirements
+Internet connection required 
+recommended browsers Firefox 117.0, Lastest Chrome version
+recommended OS Windows 10, MAC, Linux
+require at most 50 MB of storage
+recommended 4 GB of RAM
 ...
 
 ## User Requirements 
 
+
 ### Functional 
+seperate by tags
+have a todays popular page
+have a recommendeds page catered towards the users likes
 
 ...
 
 ### Non-functional
+save recipes for offline use
+user authentication
+2FA
+
 
 ...
